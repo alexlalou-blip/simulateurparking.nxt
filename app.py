@@ -44,7 +44,7 @@ elif option == "💰 Simuler un investissement":
 st.markdown("---")
 st.markdown(
     "<div style='text-align: center;'>"
-    "<a href='https://www.nexity.fr' target='_blank'>"
+    "<a href='https://www.nexity.fr/annonces-immobilieres/achat-vente/parking-box/neuf/france' target='_blank'>"
     "<button style='background-color:#1e40af;color:white;padding:15px 30px;border:none;border-radius:10px;font-size:18px;'>"
     "🚀 Découvrir tous les parkings Nexity"
     "</button></a></div>",
